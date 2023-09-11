@@ -1,0 +1,10 @@
+hafa 1 970
+test 2 500
+test2 3 450
+test3 4 400
+test2 5 350
+test4 6 300
+test24 7 250
+test4 8 200
+testé 9 150
+tesst 10 100

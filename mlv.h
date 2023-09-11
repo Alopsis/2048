@@ -1,0 +1,14 @@
+int creationfenetre();
+void jeu();
+int menumlv();
+int jouer();
+int options();
+char* mlv_demande_nom();
+void mlv_affiche_tableau(int tab[][4]);
+void mlv_fin_de_game();
+int mlv_choix_sauvegarde();
+char mlv_recup_event();
+int mlv_affichage_sauvegarde();
+void mlv_affiche_lose();
+void mlv_affichage_score();
+void mlv_affiche_finjeu(int tempsdeux,int score);
